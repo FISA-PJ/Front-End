@@ -13,11 +13,11 @@
 
 /* 공통 버튼 색상 */
 .custom-btn {
-  background-color: #002e63;
-  border-color: #002e63;
+  background-color: #002d5a;
+  border-color: #002d5a;
 }
 
 .custom-btn:hover {
-  background-color: #001c3f;
-  border-color: #001c3f;
+  background-color: #002d5a;
+  border-color: #002d5a;
 }
